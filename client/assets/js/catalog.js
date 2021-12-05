@@ -22,7 +22,7 @@ $(document).ready( async () => {//when page is loaded, get latest instance of bl
 });
 
 function displayBalance(balance) {
-    $('#fundsAvailable').html("You have " + balance + " ETH available from bird sales. ");
+    $('#fundsAvailable').html("You have " + balance + " L1 available from cryptobirds exchange. ");
 };
 
 function appendBirdToCatalog(dna, id) {
