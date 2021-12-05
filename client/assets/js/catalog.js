@@ -107,8 +107,8 @@ function catalogBox(id) {
                             </b>
                             <div class="input-group mb-3">
                                 <input id="birdPrice` + id + `" type="text" 
-                                    class="form-control" placeholder="Amount in ETH" 
-                                    aria-label="Amount in ETH" aria-describedby="button-addon2">
+                                    class="form-control" placeholder="Amount in L1" 
+                                    aria-label="Amount in L1" aria-describedby="button-addon2">
                                 <div class="input-group-append">
                                     <button id="offerButton` + id + `" 
                                         class="btn btn-success submitButton" 
